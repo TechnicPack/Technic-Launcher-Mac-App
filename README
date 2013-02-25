@@ -1,1 +1,1 @@
-Source for my Technic launcher app. Please let me know if i can improve my code somehow. Thanks :) Compile with AppleScript.
+This is the new and improved Technic Launcher for Mac OS-X. Changes include offline support, a moved jar, smaller size, faster speed, and the fix for the "Hello" bug. Download the compiled version from http://www.mediafire.com/?oa10anyi00htm1h. Be sure to compile with AppleScript Editor, not Automator.
